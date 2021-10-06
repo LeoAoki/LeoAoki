@@ -21,3 +21,5 @@
 ##
 
 # Let's have a coffee break ☕
+
+![Snake animation](https://github.com/LeoAoki/LeoAoki/blob/output/github-contribution-grid-snake.svg)
