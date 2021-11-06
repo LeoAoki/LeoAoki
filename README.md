@@ -1,7 +1,8 @@
 ## Opa! Beleza?? Sou o Leonardo Aoki, mas pode me chamar de Aoki 青木 
 
 <div align="center">
-  <a href="https://github.com/LeoAoki">
+  <!--   <a href="https://github.com/LeoAoki"> -->
+  <a href="https://leonardo-aoki.vercel.app" target="_blank">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=highcontrast"/>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
