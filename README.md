@@ -1,4 +1,4 @@
-## Opa! Beleza?? Sou o Leonardo Aoki, mas pode me chamar de Aoki 青木 
+# AOKI 青木
 
 <div align="center">
   
